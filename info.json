@@ -1,1 +1,28 @@
-
+{"name":"Weed Works",
+"tokenSymbol":null,
+"DaoOS":"Snapshot",
+"address":null,
+"description":"Weed Works is a citizen science research community focused on helping our members understand how to use cannabis more intentionally for specific effects",
+"whitePaperLink":null,
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/ZtBMY4c.png",
+       "source": "image",
+       "link": "https://weedworks.io"
+   }
+],
+"deleted":false,
+"primaryColor":"#45b605",
+"twitterHandle":"weedworks_io",
+"coingeckoId":null,
+"snapshotId":null,
+"logo":"https://i.imgur.com/UinkqDb.png",
+"telegramLink":null,
+"discordLink":null,
+"website":"https://weedworks.io",
+"tokenDescription":null,
+"tokenTradeLink":null,
+"tags":"Focused Research"
+  
+}
