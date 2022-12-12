@@ -27,5 +27,5 @@ jobs:
 
       - uses: dkershner6/post-api-call-action@v1
         with:
-          url: ${{ secrets.API_UPDATE_URL }}/Weed Works
+          url: ${{ secrets.API_UPDATE_URL }}/WeedWorks
           headers: "{\"Authorization\": \"${{ secrets.API_KEY }}\"}"
